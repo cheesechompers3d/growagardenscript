@@ -18,7 +18,7 @@ export const defaultConfig: SiteConfig = {
   },
   siteInfo: {
     companyName: "Grow a Garden Script",
-    siteUrl: "https://www.growagardenscript.online",
+    siteUrl: "https://www.grow-a-garden-script.net",
     email: "HarryC199101@gmail.com"
   },
   footer: {

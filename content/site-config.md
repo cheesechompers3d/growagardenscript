@@ -8,7 +8,7 @@ seo:
 
 siteInfo:
   companyName: "Grow a Garden Script"
-  siteUrl: "https://www.growagardenscript.online"
+  siteUrl: "https://www.grow-a-garden-script.net"
   email: "HarryC199101@gmail.com"
 gameSettings:
   randomGamesCount: 20
@@ -39,6 +39,10 @@ footer:
           url: "https://www.grow-a-garden-script.net"
         - text: "Steal a Brainrot Script"
           url: "https://www.stealabrainrot.online"
+        - text: "Grow a Garden Dark Spawner Script"
+          url: "https://www.growagardendarkspawnerscript.org"
+        - text: "Spawner Script Grow a Garden"
+          url: "https://www.spawnerscriptgrowagarden.org"
     - title: "About/Contact"
       links:
         - text: "Privacy Policy"
